@@ -1,0 +1,883 @@
+{
+    "assets": [
+        {
+            "id": "nft0",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 17.91906098437709,
+                "date": 1567162779,
+                "tags": [
+                    "Scary",
+                    "Retarded",
+                    "Cute",
+                    "Cool"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft1",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 83.59517960285626,
+                "date": 1567989870,
+                "tags": [
+                    "Incredible",
+                    "Cool"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "id": "nft2",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 31.867029982188665,
+                "date": 1575858302,
+                "tags": [
+                    "Funny"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "orange",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft3",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 23.953467705138788,
+                "date": 1573954793,
+                "tags": [
+                    "Incredible",
+                    "Cute",
+                    "Cool",
+                    "Funny"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "red",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft4",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 9.447909324761316,
+                "date": 1550986728,
+                "tags": [
+                    "Scary",
+                    "Cute"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "red",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft5",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 28.054864120427048,
+                "date": 1551511214,
+                "tags": [
+                    "Cute",
+                    "Scary"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "red",
+                    "green",
+                    "orange"
+                ]
+            }
+        },
+        {
+            "id": "nft6",
+            "data": {
+                "rarity": "RARE",
+                "mint_cost": 18.50897174241275,
+                "date": 1553998788,
+                "tags": [
+                    "Incredible",
+                    "Cute",
+                    "Cool",
+                    "Funny"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "orange"
+                ]
+            }
+        },
+        {
+            "id": "nft7",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 27.18152474365295,
+                "date": 1560452534,
+                "tags": [
+                    "Cool",
+                    "Cute"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "red",
+                    "yellow",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft8",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 7.462719212457058,
+                "date": 1558536881,
+                "tags": [
+                    "Incredible",
+                    "Cool"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "red",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft9",
+            "data": {
+                "rarity": "RARE",
+                "mint_cost": 39.3408207330085,
+                "date": 1554027873,
+                "tags": [
+                    "Cool",
+                    "Scary"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "red",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft10",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 64.52155961413314,
+                "date": 1561608973,
+                "tags": [
+                    "Incredible",
+                    "Cool",
+                    "Retarded",
+                    "Cute"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "orange",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft11",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 14.154884734864781,
+                "date": 1565967467,
+                "tags": [
+                    "Cute",
+                    "Scary",
+                    "Incredible",
+                    "Retarded"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "green",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft12",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 96.3859929029757,
+                "date": 1547766686,
+                "tags": [
+                    "Funny"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft13",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 46.98411671713092,
+                "date": 1565627799,
+                "tags": [
+                    "Scary",
+                    "Incredible",
+                    "Cute"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "green",
+                    "orange"
+                ]
+            }
+        },
+        {
+            "id": "nft14",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 49.690386608714896,
+                "date": 1566668499,
+                "tags": [
+                    "Funny"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "id": "nft15",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 4.732761588949696,
+                "date": 1556599321,
+                "tags": [
+                    "Retarded",
+                    "Funny",
+                    "Cool",
+                    "Scary"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft16",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 89.97064466604282,
+                "date": 1566114051,
+                "tags": [
+                    "Cool",
+                    "Cute"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "red",
+                    "green",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft17",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 93.47111272893083,
+                "date": 1576672000,
+                "tags": [
+                    "Incredible",
+                    "Cool",
+                    "Retarded"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "id": "nft18",
+            "data": {
+                "rarity": "RARE",
+                "mint_cost": 13.317313945377872,
+                "date": 1567073592,
+                "tags": [
+                    "Incredible",
+                    "Cool"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft19",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 81.8471417952136,
+                "date": 1546995614,
+                "tags": [
+                    "Funny",
+                    "Incredible"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft20",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 87.94163741026212,
+                "date": 1569541346,
+                "tags": [
+                    "Cool",
+                    "Incredible"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "red",
+                    "yellow",
+                    "orange",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft21",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 51.29618562013002,
+                "date": 1550607628,
+                "tags": [
+                    "Cute",
+                    "Cool",
+                    "Retarded",
+                    "Scary"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "purple",
+                    "orange",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft22",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 65.69577300565227,
+                "date": 1554417551,
+                "tags": [
+                    "Cute",
+                    "Retarded",
+                    "Cool"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "green",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft23",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 95.3387944509552,
+                "date": 1550870041,
+                "tags": [
+                    "Funny"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "id": "nft24",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 85.15909279352175,
+                "date": 1552103160,
+                "tags": [
+                    "Retarded",
+                    "Cool",
+                    "Scary",
+                    "Cute"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "red",
+                    "orange",
+                    "purple",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft25",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 13.021193083492044,
+                "date": 1569873845,
+                "tags": [
+                    "Cute",
+                    "Retarded"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft26",
+            "data": {
+                "rarity": "RARE",
+                "mint_cost": 15.273191407979802,
+                "date": 1550113408,
+                "tags": [
+                    "Incredible",
+                    "Cute"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "red",
+                    "blue",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft27",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 88.53056686512525,
+                "date": 1557585349,
+                "tags": [
+                    "Cute",
+                    "Incredible",
+                    "Funny",
+                    "Retarded"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "red",
+                    "blue",
+                    "orange",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft28",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 86.91092419547338,
+                "date": 1568648616,
+                "tags": [
+                    "Retarded",
+                    "Cute",
+                    "Scary"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "green",
+                    "blue",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft29",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 22.19150237783476,
+                "date": 1564607436,
+                "tags": [
+                    "Scary",
+                    "Cute",
+                    "Incredible",
+                    "Cool"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "id": "nft30",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 57.16914391859969,
+                "date": 1552915977,
+                "tags": [
+                    "Incredible",
+                    "Scary",
+                    "Cool"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "red",
+                    "yellow",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft31",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 35.99899910463724,
+                "date": 1548727523,
+                "tags": [
+                    "Funny",
+                    "Retarded",
+                    "Incredible",
+                    "Cute"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft32",
+            "data": {
+                "rarity": "RARE",
+                "mint_cost": 96.78982647111009,
+                "date": 1573229242,
+                "tags": [
+                    "Funny"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "orange",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft33",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 69.71127953812928,
+                "date": 1571552597,
+                "tags": [
+                    "Scary"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "yellow",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft34",
+            "data": {
+                "rarity": "RARE",
+                "mint_cost": 76.65697751141523,
+                "date": 1570391748,
+                "tags": [
+                    "Cool",
+                    "Scary",
+                    "Funny",
+                    "Cute"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "orange",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft35",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 26.157401014730684,
+                "date": 1556194534,
+                "tags": [
+                    "Funny",
+                    "Incredible",
+                    "Cool"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "blue",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft36",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 67.2395520359351,
+                "date": 1548414848,
+                "tags": [
+                    "Retarded"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "orange"
+                ]
+            }
+        },
+        {
+            "id": "nft37",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 39.75561228490939,
+                "date": 1559603132,
+                "tags": [
+                    "Funny"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "red",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft38",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 2.3885623692826763,
+                "date": 1556777440,
+                "tags": [
+                    "Cute",
+                    "Incredible"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "purple",
+                    "blue",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft39",
+            "data": {
+                "rarity": "RARE",
+                "mint_cost": 21.133424136612245,
+                "date": 1569299659,
+                "tags": [
+                    "Cute",
+                    "Retarded",
+                    "Incredible",
+                    "Funny"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "green",
+                    "orange"
+                ]
+            }
+        },
+        {
+            "id": "nft40",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 80.89128398724634,
+                "date": 1552681855,
+                "tags": [
+                    "Scary",
+                    "Incredible",
+                    "Retarded",
+                    "Cute"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "green",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft41",
+            "data": {
+                "rarity": "LIMITED",
+                "mint_cost": 60.59302472956224,
+                "date": 1546977621,
+                "tags": [
+                    "Cute",
+                    "Retarded"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "red"
+                ]
+            }
+        },
+        {
+            "id": "nft42",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 7.61079714406071,
+                "date": 1548101599,
+                "tags": [
+                    "Cute"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "green",
+                    "yellow"
+                ]
+            }
+        },
+        {
+            "id": "nft43",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 30.10295791186135,
+                "date": 1564949567,
+                "tags": [
+                    "Funny"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "red",
+                    "purple",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft44",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 6.731961526950004,
+                "date": 1554435837,
+                "tags": [
+                    "Incredible",
+                    "Retarded",
+                    "Cute"
+                ],
+                "num_squares": 1,
+                "colors": [
+                    "green"
+                ]
+            }
+        },
+        {
+            "id": "nft45",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 71.1118749529979,
+                "date": 1554643582,
+                "tags": [
+                    "Incredible",
+                    "Funny",
+                    "Cool"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "green",
+                    "orange"
+                ]
+            }
+        },
+        {
+            "id": "nft46",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 71.82086733369346,
+                "date": 1567188844,
+                "tags": [
+                    "Retarded",
+                    "Funny"
+                ],
+                "num_squares": 4,
+                "colors": [
+                    "purple",
+                    "orange",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft47",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 53.83164273458797,
+                "date": 1570267321,
+                "tags": [
+                    "Cute",
+                    "Cool",
+                    "Incredible",
+                    "Retarded"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "yellow",
+                    "green",
+                    "blue"
+                ]
+            }
+        },
+        {
+            "id": "nft48",
+            "data": {
+                "rarity": "UNCOMMON",
+                "mint_cost": 16.804345028841926,
+                "date": 1549109575,
+                "tags": [
+                    "Scary",
+                    "Cool"
+                ],
+                "num_squares": 3,
+                "colors": [
+                    "green",
+                    "blue",
+                    "purple"
+                ]
+            }
+        },
+        {
+            "id": "nft49",
+            "data": {
+                "rarity": "COMMON",
+                "mint_cost": 82.29091621495311,
+                "date": 1555382077,
+                "tags": [
+                    "Funny",
+                    "Retarded"
+                ],
+                "num_squares": 2,
+                "colors": [
+                    "purple"
+                ]
+            }
+        }
+    ]
+}

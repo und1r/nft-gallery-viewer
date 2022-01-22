@@ -1,38 +1,201 @@
-.App {
-  text-align: center;
+img{
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+.image-grid{
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  align-content: center;
+  display: grid;
+  gap: 2rem;
+  grid-template-columns: 300px 300px 300px 300px;
 }
 
-.App-link {
-  color: #61dafb;
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+*, *:before, *:after{
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing:border-box;
+  box-sizing: border-box;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body{
+  background: #0f0f0f;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+}
+
+p {
+  color: #fff;
+}
+
+.main-title{
+  color: #2d2d2d;
+  text-align: center;
+  text-transform: capitalize;
+  padding: 0.7em 0;
+}
+
+.container .title{
+  color: #1a1a1a;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.content {
+  position: relative;
+  width: 90%;
+  max-width: 250px;
+  margin: auto;
+  overflow: hidden;
+  table-layout: fixed;
+}
+
+.content .content-overlay {
+  background: rgb(27, 33, 39);
+  position: absolute;
+  height: 92%;
+  width: 100%;
+  opacity: 0;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+}
+
+.content:hover .content-overlay{
+  opacity: 1;
+}
+
+.content-image{
+  width: 100%;
+}
+
+.content-details {
+  position: absolute;
+  text-align: center;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 100%;
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  -webkit-transition: all 0.3s ease-in-out 0s;
+  -moz-transition: all 0.3s ease-in-out 0s;
+  transition: all 0.3s ease-in-out 0s;
+}
+
+.content:hover .content-details{
+  top: 15%;
+  left: 50%;
+  opacity: 1;
+}
+
+.content-details h3{
+  text-align: left;
+  color: #fff;
+  font-weight: 500;
+  letter-spacing: 0.15em;
+  margin-bottom: 1em;
+  text-transform: uppercase;
+}
+
+.content-details p{
+  text-align: left;
+  color: #fff;
+  font-size: 1.1em;
+}
+
+.fadeIn-top{
+  top: 20%;
+}
+
+
+.mint {
+  position: absolute;
+  text-align: left;
+  top: 100px;
+}
+
+.text-left {
+  font-size: 20px;
+  width: 80%;
+  text-align: left;
+}
+
+.text-right {
+  font-size: 20px;
+  width: 20%;
+}
+
+.expanded-table {
+  position: absolute;
+  transform: translateY(-35px);
+}
+
+/* z-index should be higher than the table transition overlay */
+.nft-table-info {
+  position: relative;
+  margin-top: -5px;
+  border-top: 5px solid rgb(27, 33, 39);
+  border-left: 5px solid rgb(27, 33, 39);
+  border-bottom: 5px solid rgb(27, 33, 39);
+  z-index: 999;
+}
+
+.inner-nft-table {
+  margin-top: 10px solid rgb(27, 33, 39);
+  margin-left: 10px solid rgb(27, 33, 39);
+  background-color:rgb(27, 33, 39);
+  width: 250px;
+}
+
+.COMMON {
+  color: rgb(156, 156, 156);
+}
+
+.UNCOMMON {
+  color: rgb(106, 196, 4);
+}
+
+.RARE {
+  color: rgb(2, 168, 240);
+}
+
+.LIMITED {
+  color: rgb(230, 238, 2);
+}
+
+.less-important {
+  font-size: 15px;
+  color: rgb(134, 134, 134)
+}
+
+.download-button {
+  background-color: rgb(27, 33, 39);
+  display: none;
+}
+
+.content:hover .download-button {
+  background-image: url('./nft-download.png');
+  background-color: rgb(27, 33, 39);;
+  background-repeat: no-repeat;
+  border: none;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  z-index: 1000;
+  display: block;
+  left: 70%;
+  top: 70%;
+  transform: translateY(-30px) translateX(25px);
+}
+
+.download-button:hover {
+  cursor: pointer;
 }
